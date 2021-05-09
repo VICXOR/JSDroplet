@@ -8,7 +8,7 @@
   <h3 align="center">JSDroplet</h3>
 
   <p align="center">
-    Javascript dropper written in python3 for Read Team action.
+    Javascript dropper written in python3 for Red Team action.
     <br />
     <a href="https://github.com/VICXOR/JSDroplet/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
