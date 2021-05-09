@@ -27,4 +27,4 @@ python3 JSDroplet.py 192.168.0.1 test.exe zip
 [or no zip]
 python3 JSDroplet.py 192.168.0.1 test.exe
 ```
-<a href="https://github.com/VICXOR/JSDroplet/blob/master/README.md"><strong>Video »</strong></a>
+<a href="https://terminalizer.com/view/a5f034ac4897"><strong>Video »</strong></a>
